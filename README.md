@@ -1,4 +1,4 @@
-# cokeRun
+# cokeRun for QBCore framework
 
 This mission allows players to get drug shipments using a seaplane ("dodo")
 
